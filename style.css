@@ -3,13 +3,10 @@
   margin: 0;
   padding: 0;
 }
-.bird-section {
-  width: 100%;
-  height:400px;
+.body {
   background-image: url("https://github.com/olwammzimela12-gif/olomzim/blob/main/Image.jpg?raw=true");
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
 }
 
 .stage {
